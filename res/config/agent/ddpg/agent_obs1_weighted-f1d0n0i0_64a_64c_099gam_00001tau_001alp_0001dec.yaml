@@ -20,9 +20,10 @@ critic_hidden_layer_activation: "relu"
 
 # objective and reward
 objective: 'weighted'
-flow_weight: 0
-delay_weight: 1
+flow_weight: 1
+delay_weight: 0
 node_weight: 0
+instance_weight: 0
 
 # Memory Config
 mem_limit: 10000

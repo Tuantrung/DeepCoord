@@ -23,6 +23,7 @@ objective: 'weighted'
 flow_weight: 0.5
 delay_weight: 0.5
 node_weight: 0
+instance_weight: 0
 
 # Memory Config
 mem_limit: 10000

@@ -50,7 +50,7 @@
       <data key="d32">-74.00597</data>
       <data key="d33">New York</data>
       <data key="d34">Ingress</data>
-      <data key="d35">0</data>
+      <data key="d35">1</data>
     </node>
     <node id="1">
       <data key="d28">1</data>
@@ -60,7 +60,7 @@
       <data key="d32">-87.65005</data>
       <data key="d33">Chicago</data>
       <data key="d34">Normal</data>
-      <data key="d35">1</data>
+      <data key="d35">2</data>
     </node>
     <node id="2">
       <data key="d28">1</data>
@@ -90,7 +90,7 @@
       <data key="d32">-122.03635</data>
       <data key="d33">Sunnyvale</data>
       <data key="d34">Normal</data>
-      <data key="d35">1</data>
+      <data key="d35">2</data>
     </node>
     <node id="5">
       <data key="d28">1</data>
@@ -100,7 +100,7 @@
       <data key="d32">-118.24368</data>
       <data key="d33">Los Angeles</data>
       <data key="d34">Normal</data>
-      <data key="d35">2</data>
+      <data key="d35">0</data>
     </node>
     <node id="6">
       <data key="d28">1</data>
@@ -120,7 +120,7 @@
       <data key="d32">-94.62746</data>
       <data key="d33">Kansas City</data>
       <data key="d34">Normal</data>
-      <data key="d35">0</data>
+      <data key="d35">2</data>
     </node>
     <node id="8">
       <data key="d28">1</data>
@@ -130,7 +130,7 @@
       <data key="d32">-95.36327</data>
       <data key="d33">Houston</data>
       <data key="d34">Normal</data>
-      <data key="d35">2</data>
+      <data key="d35">1</data>
     </node>
     <node id="9">
       <data key="d28">1</data>
@@ -140,7 +140,7 @@
       <data key="d32">-84.38798</data>
       <data key="d33">Atlanta</data>
       <data key="d34">Normal</data>
-      <data key="d35">1</data>
+      <data key="d35">0</data>
     </node>
     <node id="10">
       <data key="d28">1</data>
